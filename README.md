@@ -1,2 +1,2 @@
 # ConMeC-Common-Noun-Metonymy-Corpus
-The code and data accompanying the NAACL 2017 publication "All Hands on Deck! Metonymy Resolution with Large Language Models"
+The code and data accompanying the NAACL 2025 publication "ConMeC: A Dataset for Metonymy Resolution with Common Nouns"
