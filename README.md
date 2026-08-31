@@ -3,8 +3,7 @@
 The repository accompanies our NAACL 2025 publication "ConMeC: A Dataset for Metonymy Resolution with Common Nouns"
 
 **Dataset Access:**<br>
-The dataset can be downloaded directly from Hugging Face: https://huggingface.co/datasets/Rey97/ConMeC
-
+The dataset can be downloaded directly from Hugging Face: https://huggingface.co/datasets/CincyNLP/ConMeC
 **What is ConMeC?**<br>
 ConMeC is the first large-scale, systematically annotated dataset focused on common noun metonymy. It is designed to support tasks in metonymy resolution, figurative language understanding, and LLM evaluation.
 
